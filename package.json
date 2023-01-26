@@ -3,6 +3,10 @@
   "displayName": "watatheme",
   "description": "my theme",
   "version": "0.0.1",
+  "publisher": "alcaroff",
+  "repository": {
+    "url": "https://github.com/alcaroff/watatheme"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
